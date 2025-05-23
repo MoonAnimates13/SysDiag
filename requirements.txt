@@ -1,0 +1,6 @@
+pyqt6
+psutil
+py-cpuinfo
+pyperclip
+GPUtil
+pyqtgraph

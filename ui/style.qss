@@ -1,0 +1,14 @@
+/* ui/style.qss */
+QWidget {
+    background-color: #1e1e1e;
+    color: #f0f0f0;
+    font-family: Consolas;
+    font-size: 14px;
+}
+QLabel, QTabWidget::pane {
+    background-color: #2e2e2e;
+}
+QTextEdit, QTableWidget, QLineEdit {
+    background-color: #3e3e3e;
+    color: #ffffff;
+}
